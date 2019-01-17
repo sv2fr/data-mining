@@ -1,2 +1,2 @@
 # SYS6018
-Solutions to assignments for UVA SYS6018 Data Mining Class Fall 2018
+Kernal Density Estimation, Clustering, Decision Trees and ROC curves, and KNN implemented from scratch in R.
